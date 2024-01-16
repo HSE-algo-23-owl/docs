@@ -3,7 +3,7 @@
 **1. Клонирование репозитория** 
 Копируем ссылку на https://github.com/HSE-algo-23-owl/algoscalc-back/tree/issue-15
 
-![Ссылка на репозиторий](https://github.com/HSE-algo-23-owl/docs/tree/main/images/srv1.png)
+![Ссылка на репозиторий](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv1.PNG)
 
 Склонировать репозиторий в папку с проектом в терминале PyCharm
 
