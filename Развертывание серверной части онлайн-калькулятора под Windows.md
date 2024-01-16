@@ -5,19 +5,19 @@
 
 ![Ссылка на репозиторий](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv1.PNG)
 
-Склонировать репозиторий в папку с проектом в терминале PyCharm
+Клонируем репозиторий в папку с проектом в терминале PyCharm
 
 ![Терминал PyCharm](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv11.PNG)
 
 
 **2. Установка виртуального окружения для репозитория**
-В Pycharm установить для репозитория виртуальное окружение - 
+В Pycharm для репозитория устанавливаем виртуальное окружение - 
 Settings -> Project -> Python interpreter -> Add interpreter -> Add local interpreter -> Virtualenv Environment -> New.
 
 ![Виртуальное окружение проекта algoscalc-back](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv2.PNG)
 
 **3. Установка зависимостей из файла src/requirements.txt**
-Установить в виртуальное окружение проекта зависимости из файла src/requirements.txt - в терминале выполнить pip install -r src/requirements.txt
+Устанавливаем в виртуальное окружение проекта зависимости из файла src/requirements.txt - в терминале выполняем pip install -r src/requirements.txt
 
 **При установке зависимостей в терминале возникает ошибка**
 
@@ -29,6 +29,6 @@ Settings -> Project -> Python interpreter -> Add interpreter -> Add local interp
 
  Копируем ссылку на проект, переходим в терминал cmd или Windows PowerShell, выполняем команду pip install -r src/requirements.txt
 
-  ![Установка зависимостей через PowerShell](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv31.PNG)
+  ![Установка зависимостей через PowerShell](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srw31.PNG)
 
 
