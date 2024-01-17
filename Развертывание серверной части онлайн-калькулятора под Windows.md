@@ -18,7 +18,7 @@ Settings -> Project -> Python interpreter -> Add interpreter -> Add local interp
 
 **3. Установка зависимостей из файла src/requirements.txt**
 Устанавливаем в виртуальное окружение проекта зависимости из файла src/requirements.txt 
-В терминале выполняем переходим в папку проекта, затем запускаем команду pip install -r src/requirements.txt
+В терминале переходим в папку проекта, затем запускаем команду pip install -r src/requirements.txt
 
  ![Виртуальное окружение проекта algoscalc-back](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv22.PNG)
 
