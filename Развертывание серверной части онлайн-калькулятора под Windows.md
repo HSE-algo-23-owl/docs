@@ -17,18 +17,11 @@ Settings -> Project -> Python interpreter -> Add interpreter -> Add local interp
 ![Виртуальное окружение проекта algoscalc-back](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv2.PNG)
 
 **3. Установка зависимостей из файла src/requirements.txt**
-Устанавливаем в виртуальное окружение проекта зависимости из файла src/requirements.txt - в терминале выполняем pip install -r src/requirements.txt
-
-**При установке зависимостей в терминале возникает ошибка**
+Устанавливаем в виртуальное окружение проекта зависимости из файла src/requirements.txt 
+В терминале выполняем переходим в папку проекта, затем запускаем команду pip install -r src/requirements.txt
 
  ![Виртуальное окружение проекта algoscalc-back](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv22.PNG)
 
- В папке src находим файл requirements.txt
 
- ![Файл requirements.txt](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srv3.PNG)
-
- Копируем ссылку на проект, переходим в терминал cmd или Windows PowerShell, выполняем команду pip install -r src/requirements.txt
-
-  ![Установка зависимостей через PowerShell](https://github.com/HSE-algo-23-owl/docs/blob/main/images/srw31.PNG)
 
 
